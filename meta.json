@@ -1,0 +1,180 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": []
+                }
+            },
+            "assets": {
+                "65006a9f523ae200218f54dc": {
+                    "externalStorageType": "GCS",
+                    "_id": "65006a9f523ae200218f54dc",
+                    "size": "9131",
+                    "mimetype": "image/jpeg",
+                    "encoding": "7bit",
+                    "originalname": "images.jpeg",
+                    "backendURI": "/project/65006a9f523ae244ba8f54da/getasset/65006a9f523ae200218f54dc",
+                    "name": "images.jpeg",
+                    "externalName": "users/64f946bb358c537b3d5b798e/projects/65006a9f523ae244ba8f54da/assets/65006a9f523ae200218f54dc",
+                    "createdAt": "2023-05-19T10:18:27.828Z",
+                    "updatedAt": "2023-05-19T10:18:27.828Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f946bb358c537b3d5b798e/projects/65006a9f523ae244ba8f54da/assets/65006a9f523ae200218f54dc?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230912%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230912T134152Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6962524dcdaa7e864de654307632ad74aed16e3a8ba011c4b53deb3fc9a941fc9b58ed794ed4239b534e82cf0332347bc70c2c5fce69e91a7bbe0bd3be151962ea1b02920793510280bed03eeb359d66fba26fa65a0be7690082b33fbb2830f6878e4a67d00309d6232371ee01a50d336fcc25741469bb9aa22dfdf92b588953c78ae667bad6f6d48fd79ce04974a7d2fe9a4c8f4b27b2a20c0fa529f447fcc5971ac1a0644d1dca18893adacdf0b003d6d4931957b0c02913b7e3cc10bd1c46579367da39c644736a0de07bf52ed14d2a79834a13266fbe65682dec369c63c9aee6bf0ecebe79c7122b9638465f09da25b9692091f793897662306f74ea488e",
+                    "signedUrlExpirationTime": 1694698912284
+                }
+            },
+            "backendUpgradeVersion": 21,
+            "blockly": {
+                "b06b5f8c-a04d-43c1-9a72-5471132b0830": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    }
+                },
+                "01ba6440-f089-4fac-a77b-9ff75112369b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [
+                            "android.permission.CAMERA"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
+                            }
+                        ]
+                    }
+                }
+            },
+            "categories": [],
+            "components": {
+                "children": [
+                    "Screen1.b06b5f8c-a04d-43c1-9a72-5471132b0830",
+                    "Screen2.01ba6440-f089-4fac-a77b-9ff75112369b"
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "Translator App VCS",
+            "settings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSCameraUsageDescription": ""
+                        }
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSCameraUsageDescription": ""
+                        }
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {},
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
